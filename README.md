@@ -19,11 +19,6 @@ A frontend-only URL Shortener built as part of an assessment.
 3. Get shortened link  
 4. Copy and share  
 
-## Run Locally
-Clone the repo and open index.html:
-git clone <your-repo-link>
-cd URL-Shortener
-open index.html
 
 ## Purpose
 Built as a frontend assessment project to test:
